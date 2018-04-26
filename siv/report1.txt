@@ -1,0 +1,7 @@
+Initialization has been complete 
+
+Monitored dirs = /home/saddam/Desktop/SD
+Verification file =ver.txt
+Number of total directories parsed =0
+Number of total files parsed = 22
+ Total Time = 0:00:01.792280

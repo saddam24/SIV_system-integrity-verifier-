@@ -1,0 +1,184 @@
+[
+  {}, 
+  {
+    "/home/saddam/Desktop/SD/ET1208_ET1446_2014-06-03.pdf": {
+      "access": "0664", 
+      "group": "saddam", 
+      "hash": "8445ba8d5c98d3271910972e71521b68", 
+      "size": 125126, 
+      "time": "Mon May 22 15:50:24 2017", 
+      "users": "saddam"
+    }, 
+    "/home/saddam/Desktop/SD/ET1446_2015-06-07.pdf": {
+      "access": "0664", 
+      "group": "saddam", 
+      "hash": "aa9c5af5dc7a79c40e3198870a0d8447", 
+      "size": 135692, 
+      "time": "Mon May 22 15:50:24 2017", 
+      "users": "saddam"
+    }, 
+    "/home/saddam/Desktop/SD/ET1446_2015-08-21(1).pdf": {
+      "access": "0664", 
+      "group": "saddam", 
+      "hash": "e421a25d1fcf2a7f6b3bfcf15602238a", 
+      "size": 118615, 
+      "time": "Sat Jan  6 14:50:01 2018", 
+      "users": "saddam"
+    }, 
+    "/home/saddam/Desktop/SD/ET1446_2015-08-21.pdf": {
+      "access": "0664", 
+      "group": "saddam", 
+      "hash": "e421a25d1fcf2a7f6b3bfcf15602238a", 
+      "size": 118615, 
+      "time": "Mon May 22 15:50:24 2017", 
+      "users": "saddam"
+    }, 
+    "/home/saddam/Desktop/SD/ET1446_20170102.pdf": {
+      "access": "0664", 
+      "group": "saddam", 
+      "hash": "9c19e6f1f79f2679a329b33c4baf4238", 
+      "size": 1254872, 
+      "time": "Sat Jan  6 14:50:10 2018", 
+      "users": "saddam"
+    }, 
+    "/home/saddam/Desktop/SD/ET1446_ET1208_2014-08-28.pdf": {
+      "access": "0664", 
+      "group": "saddam", 
+      "hash": "90bb7d48c2f1d5e2eafb7f9ece39d726", 
+      "size": 126135, 
+      "time": "Mon May 22 15:50:24 2017", 
+      "users": "saddam"
+    }, 
+    "/home/saddam/Desktop/SD/IMG_0670.JPG": {
+      "access": "0664", 
+      "group": "saddam", 
+      "hash": "724ea890775b39e3daa7bf09278614ce", 
+      "size": 135743, 
+      "time": "Sun Jan  7 02:05:05 2018", 
+      "users": "saddam"
+    }, 
+    "/home/saddam/Desktop/SD/IMG_0671.JPG": {
+      "access": "0664", 
+      "group": "saddam", 
+      "hash": "7ee11e0507bfa49f09af91ed45738845", 
+      "size": 141245, 
+      "time": "Sun Jan  7 02:05:10 2018", 
+      "users": "saddam"
+    }, 
+    "/home/saddam/Desktop/SD/IMG_0672.JPG": {
+      "access": "0664", 
+      "group": "saddam", 
+      "hash": "c220a432b886916c2e6c8a0bfbc92bf4", 
+      "size": 144132, 
+      "time": "Sun Jan  7 02:05:19 2018", 
+      "users": "saddam"
+    }, 
+    "/home/saddam/Desktop/SD/IMG_0673.JPG": {
+      "access": "0664", 
+      "group": "saddam", 
+      "hash": "a0d34959b88f4b9a2fb08a1005435ca2", 
+      "size": 124161, 
+      "time": "Sun Jan  7 02:07:37 2018", 
+      "users": "saddam"
+    }, 
+    "/home/saddam/Desktop/SD/IMG_0674.JPG": {
+      "access": "0664", 
+      "group": "saddam", 
+      "hash": "7881177f8f01c3771eb5c69a7bb50f6f", 
+      "size": 128086, 
+      "time": "Sun Jan  7 02:04:54 2018", 
+      "users": "saddam"
+    }, 
+    "/home/saddam/Desktop/SD/IMG_0675.JPG": {
+      "access": "0664", 
+      "group": "saddam", 
+      "hash": "a998a67ae2bdb7c3c3f619020765b17c", 
+      "size": 117131, 
+      "time": "Sun Jan  7 02:05:33 2018", 
+      "users": "saddam"
+    }, 
+    "/home/saddam/Desktop/SD/IMG_0676.JPG": {
+      "access": "0664", 
+      "group": "saddam", 
+      "hash": "bc7f04b42647dcba30a7086f1c1964e9", 
+      "size": 140803, 
+      "time": "Sun Jan  7 02:05:41 2018", 
+      "users": "saddam"
+    }, 
+    "/home/saddam/Desktop/SD/IMG_0677.JPG": {
+      "access": "0664", 
+      "group": "saddam", 
+      "hash": "adb9f96cca392815d05eb95682e6a4a7", 
+      "size": 128655, 
+      "time": "Sun Jan  7 02:05:55 2018", 
+      "users": "saddam"
+    }, 
+    "/home/saddam/Desktop/SD/IMG_0678.JPG": {
+      "access": "0664", 
+      "group": "saddam", 
+      "hash": "1eae8c4c17efcb3775791896de48a129", 
+      "size": 127084, 
+      "time": "Sun Jan  7 02:06:03 2018", 
+      "users": "saddam"
+    }, 
+    "/home/saddam/Desktop/SD/august-last-year.pdf": {
+      "access": "0664", 
+      "group": "saddam", 
+      "hash": "711e6dded9e7bde9b87d434947bc2bcb", 
+      "size": 2654501, 
+      "time": "Sat Jan  6 14:49:37 2018", 
+      "users": "saddam"
+    }, 
+    "/home/saddam/Desktop/SD/exam_ET1446_2016-01-09.pdf": {
+      "access": "0664", 
+      "group": "saddam", 
+      "hash": "f42f137cfdeec272a414503ffd8e658f", 
+      "size": 121042, 
+      "time": "Mon May 22 15:50:24 2017", 
+      "users": "saddam"
+    }, 
+    "/home/saddam/Desktop/SD/exam_ET1446_2016-05-26.pdf": {
+      "access": "0664", 
+      "group": "saddam", 
+      "hash": "57296304cd14474310b339fed2ee3198", 
+      "size": 117998, 
+      "time": "Mon May 22 15:50:24 2017", 
+      "users": "saddam"
+    }, 
+    "/home/saddam/Desktop/SD/exam_ET1446_2016-08-20.pdf": {
+      "access": "0664", 
+      "group": "saddam", 
+      "hash": "0a5d0e199102720f56cbd5471d06ef58", 
+      "size": 125636, 
+      "time": "Mon May 22 15:50:24 2017", 
+      "users": "saddam"
+    }, 
+    "/home/saddam/Desktop/SD/exam_ET1446_2017-01-02.pdf": {
+      "access": "0664", 
+      "group": "saddam", 
+      "hash": "a7543366f7723d83fd3cf2ad8a30f0df", 
+      "size": 116379, 
+      "time": "Mon May 22 15:50:24 2017", 
+      "users": "saddam"
+    }, 
+    "/home/saddam/Desktop/SD/june-last-year.pdf": {
+      "access": "0664", 
+      "group": "saddam", 
+      "hash": "20d99d8ba1ada6d00f9331cf9fbb249a", 
+      "size": 2366560, 
+      "time": "Sat Jan  6 14:49:11 2018", 
+      "users": "saddam"
+    }, 
+    "/home/saddam/Desktop/SD/tinashe-paper.pdf": {
+      "access": "0664", 
+      "group": "saddam", 
+      "hash": "c57e406248b40bcf18877b2c80b2563f", 
+      "size": 9761873, 
+      "time": "Sat Jan  6 14:49:32 2018", 
+      "users": "saddam"
+    }
+  }, 
+  {
+    "hash_type": "MD5"
+  }
+]
