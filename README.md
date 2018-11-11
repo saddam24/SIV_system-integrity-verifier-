@@ -16,3 +16,5 @@ the user to enter a path to a monitored
 directory, another path to a verification file (outside the monitored directory), a third path to a report file and a hash function (e.g., the SIVshould support at least MD-5 
 and SHA-1
 
+# python siv/siv.py -i -D TOOLS -V siv/verify.txt -R siv/report1.txt -H MD5
+# python siv/siv.py -v -D TOOLS -V siv/verify.txt -R siv/report2.txt 
