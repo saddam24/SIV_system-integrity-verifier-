@@ -1,0 +1,7 @@
+Initialization has been complete 
+
+Monitored dirs = TOOLS
+Verification file =siv/verify.txt
+Number of total directories parsed =133
+Number of total files parsed = 723
+ Total Time = 0:00:05.586678
